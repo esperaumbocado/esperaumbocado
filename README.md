@@ -1,5 +1,5 @@
 ### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-I'm Rui Borges,an developer from Portugal, getting my masters degree at University of Porto 🚀. 
+I'm Rui Borges, a developer from Portugal pursuing my master's degree at the University of Porto 🚀. 
 
 This is the place where I add what I do :) :/ :rofl:
 
@@ -13,7 +13,7 @@ This is the place where I add what I do :) :/ :rofl:
 -  **Languages :**  PHP, Python, TypeScript, React
 -  **Hobbies :** Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
--  **Contact me :** [WangNingkai](mailto:ruiborges206@gmail.com)
+-  **Contact me :** [Rui Borges](mailto:ruiborges206@gmail.com)
 
 
 **Languages and Tools**
@@ -26,7 +26,7 @@ This is the place where I add what I do :) :/ :rofl:
 ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?logoColor=ffffff&style=flat&logo=php)
 ![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=flat&logo=rust&logoColor=000000)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
-![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white)(#)
+![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=ffffff)\
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
