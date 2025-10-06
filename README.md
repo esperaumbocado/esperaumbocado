@@ -28,7 +28,6 @@ This is the place where I add what I do :) :/ :rofl:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?logoColor=ffffff&style=flat&logo=typescript)\
 ![React](https://img.shields.io/badge/-React-%2320232A?logoColor=61DAFB&style=flat&logo=react)
 ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?logoColor=ffffff&style=flat&logo=php)
-![Rust](https://img.shields.io/badge/-Rust-%23DEA584?style=flat&logo=rust&logoColor=000000)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=ffffff)\
