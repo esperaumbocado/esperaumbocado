@@ -4,19 +4,11 @@ I'm Rui Borges, a developer from Portugal pursuing my master's degree at the Uni
 This is the place where I add what I do :) :/ :rofl:
 
 
-| <a href="https://github.com/esperaumbocado">
-    <!-- Dark mode -->
-    <img src="https://github-stats-gamma-one.vercel.app/api?username=esperaumbocado&show_icons=true&count_private=true&hide_border=true&theme=dark#gh-dark-mode-only" />
-    <!-- Light mode -->
-    <img src="https://github-stats-gamma-one.vercel.app/api?username=esperaumbocado&show_icons=true&count_private=true&hide_border=true&theme=default#gh-light-mode-only" />
-  </a> 
-| <a href="https://github.com/esperaumbocado">
-    <!-- Dark mode -->
-    <img src="https://github-stats-gamma-one.vercel.app/api/top-langs/?username=esperaumbocado&layout=compact&langs_count=8&hide_border=true&theme=dark#gh-dark-mode-only" />
-    <!-- Light mode -->
-    <img src="https://github-stats-gamma-one.vercel.app/api/top-langs/?username=esperaumbocado&layout=compact&langs_count=8&hide_border=true&theme=default#gh-light-mode-only" />
-  </a> |
-| ------------- | ------------- |
+
+| <a href="https://github.com/esperaumbocado"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-gamma-one.vercel.app/api?username=esperaumbocado&show_icons=true&count_private=true&hide_border=true&theme=dark" /><img src="https://github-stats-gamma-one.vercel.app/api?username=esperaumbocado&show_icons=true&count_private=true&hide_border=true&theme=transparent" /></picture></a> | <a href="https://github.com/esperaumbocado"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-gamma-one.vercel.app/api/top-langs/?username=esperaumbocado&layout=compact&langs_count=8&hide_border=true&theme=dark" /><img src="https://github-stats-gamma-one.vercel.app/api/top-langs/?username=esperaumbocado&layout=compact&langs_count=8&hide_border=true&theme=transparent" /></picture></a> |
+| ------ | ------ |
+
+
 
   
 **About**
